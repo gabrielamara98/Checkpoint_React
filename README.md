@@ -1,6 +1,6 @@
 # CNN Brasil- Projeto 📰
 
-Seja bem-vindo ao meu Repositorio  ❤️
+Seja bem-vindo ao meu Repositório  ❤️
 
 <br>
 
