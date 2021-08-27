@@ -1,6 +1,7 @@
 .post{
     margin:0 auto;
     display: flex;
+    flex-direction: column;
     width:892px;
     height: 665px;
     border:1px solid red;
