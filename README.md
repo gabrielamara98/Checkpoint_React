@@ -13,7 +13,8 @@ Seja bem-vindo ao meu Repositório  ❤️
 - [X] Preparar a area de Trabalho - 📁Branch: SETUP</li>
 - [ ] Criar um Header - 📁Branch: Header</li>
 - [ ] Criar um Corpo -  📁Branch: Corpo</li>
-- [ ] Criar um Footer - 📁Branch: Footer
+- [ ] Criar a 1º parte do corpo - 📁Branch: Corpo1
+- [ ] Criar a 2º parte do corpo - 📁Branch: Corpo2
 - [ ] Colocar todos os componentes no arquivo APP.jsx 🏁
 
 
