@@ -4,7 +4,7 @@ Seja bem vindo ao meu Repositorio  ❤️
 
 <br>
 
-<img src="https://github.com/Capamara/Checkpoint_React/blob/master/public/original.png" align="center" >
+<img src="https://github.com/Capamara/Checkpoint_React/blob/master/public/original.png" align="center" width="600px" >
 
 > Este projeto consiste em criar uma pagina em <b>REACT</b> utilizando o modelo acima!
 
