@@ -1,6 +1,6 @@
-# CNN Brasil- Projeto
+# CNN Brasil- Projeto 📰
 
-Seja bem vindo ao meu Repositorio  ❤️
+Seja bem-vindo ao meu Repositorio  ❤️
 
 <br>
 
@@ -8,7 +8,7 @@ Seja bem vindo ao meu Repositorio  ❤️
 
 > Este projeto consiste em criar uma pagina em <b>REACT</b> utilizando o modelo acima!
 
-# Objetivos
+# Objetivos ⚔️
 
 - [X] Preparar a area de Trabalho - 📁Branch: SETUP</li>
 - [ ] Criar um Header - 📁Branch: Header</li>
