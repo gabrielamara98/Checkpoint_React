@@ -16,8 +16,8 @@ Seja bem-vindo ao meu Repositório  ❤️
 - [X] Criar a 1º parte do corpo - 📁Branch: Corpo1
 - [X] Criar a 2º parte do corpo - 📁Branch: Corpo2
 - [X] Colocar todos os componentes no arquivo APP.jsx 🏁
-- [ ] -Revisão
-- [ ] Entrega
+- [X] Revisão
+- [X] Entrega
 
 
 
