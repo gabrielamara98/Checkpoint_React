@@ -21,9 +21,11 @@
     border-top:0.5px groove rgba(141, 134, 134, 0.3);
 }
 .author__image{
+    
     margin:0px;
     border-bottom:0.5px groove rgba(141, 134, 134, 0.3);
 }
+
 .post__data{
     font-weight: 400;
     font-size: 12px;
