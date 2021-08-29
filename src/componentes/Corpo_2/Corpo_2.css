@@ -9,6 +9,7 @@
     width: 640px;
     height: 117px;
     margin: 0 auto;
+    background-color: rgb(192, 189, 189,0.5);
 }
 .custom-logo-ng-scope  {
     float:right;
@@ -17,6 +18,7 @@
     display: block;
     height: 87px;
     width: 130px;
+    
 }
 .parte2 p{
     
