@@ -11,11 +11,13 @@ Seja bem-vindo ao meu Repositório  ❤️
 # Objetivos ⚔️
 
 - [X] Preparar a area de Trabalho - 📁Branch: SETUP</li>
-- [ ] Criar um Header - 📁Branch: Header</li>
-- [ ] Criar um Corpo -  📁Branch: Corpo</li>
-- [ ] Criar a 1º parte do corpo - 📁Branch: Corpo1
-- [ ] Criar a 2º parte do corpo - 📁Branch: Corpo2
-- [ ] Colocar todos os componentes no arquivo APP.jsx 🏁
+- [X] Criar um Header - 📁Branch: Header</li>
+- [X] Criar um Corpo -  📁Branch: Corpo</li>
+- [X] Criar a 1º parte do corpo - 📁Branch: Corpo1
+- [X] Criar a 2º parte do corpo - 📁Branch: Corpo2
+- [X] Colocar todos os componentes no arquivo APP.jsx 🏁
+- [ ] -Revisão
+- [ ] Entrega
 
 
 
