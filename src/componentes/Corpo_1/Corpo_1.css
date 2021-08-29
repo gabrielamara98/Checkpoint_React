@@ -1,5 +1,32 @@
 .parte1{
+    display: flex;
+    flex-direction: column;
     width:100%;
     height:40%;
     border:1px solid blue;
+}
+.post__title{
+    color:#262626;
+    font-size: 40px;
+    font-weight:700;
+    line-height: 46px;
+    margin:0;
+}
+.post__excerpt{
+    font-style:normal;
+    font-weight:400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.post__data{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color:#4D4D4D;
+    font-style:normal;
+}
+
+.author__image{
+    margin:0px;
 }
